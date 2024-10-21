@@ -101,12 +101,12 @@ if (!isset($_SESSION['email']) || $_SESSION['role'] !== 'admin') {
           </li>
 
           <!-- Forms & Tables -->
-          <li class="menu-header fw-medium mt-4"><span class="menu-header-text">Forms &amp; Tables</span></li>
+          <li class="menu-header fw-medium mt-4"><span class="menu-header-text"> Tables</span></li>
           <!-- Tables -->
           <li class="menu-item">
             <a class="menu-link" id="tabelBuah" role="button">
               <i class="menu-icon tf-icons ri-table-alt-line"></i>
-              <div data-i18n="Tables">Tables</div>
+              <div data-i18n="Tables">Table Buah</div>
             </a>
           </li>
 
